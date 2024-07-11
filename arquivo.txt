@@ -1,0 +1,10 @@
+1|O Senhor dos Anéis|J.R.R. Tolkien|1954
+2|1984|George Orwell|1949
+3|O Pequeno Príncipe|Antoine de Saint-Exupéry|1943
+4|Dom Quixote|Miguel de Cervantes|1605
+5|A Revolução dos Bichos|George Orwell|1945
+6|A Metamorfose|Franz Kafka|1915
+7|Cem Anos de Solidão|Gabriel García Márquez|1967
+8|A Divina Comédia|Dante Alighieri|1320
+9|Hamlet|William Shakespeare|1600
+10|A Odisséia|Homero|-800
